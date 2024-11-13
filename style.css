@@ -1,0 +1,53 @@
+{
+   background-color: green;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+form {
+    margin-bottom: 20px;
+    border-radius: 100px;
+}
+
+input, textarea {
+    width: 90%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 10px;
+    
+    
+}
+
+button {
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.btn{
+   
+}
+
+.task {
+    border: 5px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+
+a {
+    margin: 0 5px;
+    color: #5cb85c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
